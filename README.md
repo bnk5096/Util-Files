@@ -33,6 +33,7 @@ The scripts and data provided in this repository are intended for use with submi
   - This script contains the functionality for answering our RQ 1.1. It contains a function used in complexity_prevalence.py for constructing the CSV of prevalence data that we provided in prevalence-out
 - odds.py
   - This script is used to generate odds ratios for RQ RQ 4.1
+  - The main function must be updated to reflect correct pathing
 - invocation_tress.py
   - This script contains the functionality for analyzing the functions and function calls of util files as it relates to RQ 1.2 and RQ 3 of our submission.
   - It must be configured for operation. The main function includes several variables pointing to the location of certain data, where output should be written to, and the path to the repo under analysis. These values must be populated to reflect the local file structure prior to operation
