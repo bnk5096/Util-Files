@@ -1,0 +1,51 @@
+Both (Tests Included). Total: 0
+
+Promotions (Tests Included). Total: 0
+
+Demotions (Tests Included). Total: 12
+src/java/com/opensymphony/webwork/dispatcher/DispatcherUtils.java,src/java/org/opensymphony/webwork/dispatcher/DispatcherUtils.java,src/java/org/opensymphony/struts/action2/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/webwork/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,action/src/main/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts2/dispatcher/Dispatcher.java
+
+src/java/com/opensymphony/webwork/util/AttributeMap.java,src/java/org/opensymphony/webwork/util/AttributeMap.java,src/java/org/opensymphony/struts/action2/util/AttributeMap.java,src/java/org/apache/struts/action2/util/AttributeMap.java,src/java/org/apache/struts/webwork/util/AttributeMap.java,src/java/org/apache/struts/action2/util/AttributeMap.java,action/src/main/java/org/apache/struts/action2/util/AttributeMap.java,core/src/main/java/org/apache/struts/action2/util/AttributeMap.java,core/src/main/java/org/apache/struts2/util/AttributeMap.java,core/src/main/java/org/apache/struts2/dispatcher/AttributeMap.java
+
+src/test/com/opensymphony/webwork/dispatcher/DispatcherUtilsTest.java,src/test/org/opensymphony/webwork/dispatcher/DispatcherUtilsTest.java,src/test/org/apache/webwork/dispatcher/DispatcherUtilsTest.java,src/test/org/apache/struts/action2/dispatcher/DispatcherUtilsTest.java,src/test/org/apache/struts/webwork/dispatcher/DispatcherUtilsTest.java,src/test/org/apache/struts/action2/dispatcher/DispatcherUtilsTest.java,action/src/test/java/org/apache/struts/action2/dispatcher/DispatcherUtilsTest.java,core/src/test/java/org/apache/struts/action2/dispatcher/DispatcherUtilsTest.java,core/src/test/java/org/apache/struts2/dispatcher/DispatcherUtilsTest.java,core/src/test/java/org/apache/struts2/dispatcher/DispatcherTest.java
+
+core/src/main/java/org/apache/struts2/tiles/StrutsTilesUtilImpl.java,plugins/tiles/src/main/java/org/apache/struts2/tiles/StrutsTilesUtilImpl.java,plugins/tiles/src/main/java/org/apache/struts2/tiles/StrutsTilesRequestContext.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/LocalizedTextUtil.java,core/src/main/java/com/opensymphony/xwork2/util/LocalizedTextUtil.java,core/src/main/java/com/opensymphony/xwork2/util/DefaultLocalizedTextProvider.java,core/src/main/java/com/opensymphony/xwork2/util/StrutsLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/StrutsLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/StrutsLocalizedTextProvider.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/XWorkList.java,core/src/main/java/com/opensymphony/xwork2/util/XWorkList.java,core/src/main/java/com/opensymphony/xwork2/conversion/impl/XWorkList.java,core/src/main/java/org/apache/struts2/conversion/impl/XWorkList.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/finder/DefaultClassFinder.java,core/src/main/java/com/opensymphony/xwork2/util/finder/DefaultClassFinder.java,plugins/convention/src/main/java/org/apache/struts2/convention/DefaultClassFinder.java
+
+xwork-core/src/test/java/com/opensymphony/xwork2/util/LocalizedTextUtilTest.java,core/src/test/java/com/opensymphony/xwork2/util/LocalizedTextUtilTest.java,core/src/test/java/com/opensymphony/xwork2/util/DefaultLocalizedTextProviderTest.java,core/src/test/java/com/opensymphony/xwork2/util/StrutsLocalizedTextProviderTest.java,core/src/test/java/org/apache/struts2/util/StrutsLocalizedTextProviderTest.java,core/src/test/java/org/apache/struts2/text/StrutsLocalizedTextProviderTest.java
+
+xwork-core/src/test/java/com/opensymphony/xwork2/util/XWorkListTest.java,core/src/test/java/com/opensymphony/xwork2/util/XWorkListTest.java,core/src/test/java/com/opensymphony/xwork2/conversion/impl/XWorkListTest.java,core/src/test/java/org/apache/struts2/conversion/impl/XWorkListTest.java
+
+core/src/main/java/com/opensymphony/xwork2/util/DefaultLocalizedTextProvider.java,core/src/main/java/com/opensymphony/xwork2/util/GlobalLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/GlobalLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/GlobalLocalizedTextProvider.java
+
+core/src/test/java/org/apache/struts2/util/URLDecoderUtilTest.java,core/src/test/java/org/apache/struts2/url/StrutsUrlDecoderTest.java
+
+core/src/main/java/com/opensymphony/xwork2/util/AbstractLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/AbstractLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/AbstractLocalizedTextProvider.java
+
+
+Both (Tests Excluded). Total: 0
+
+Promotions (Tests Excluded). Total: 0
+
+Demotions (Tests Excluded). Total: 8
+src/java/com/opensymphony/webwork/dispatcher/DispatcherUtils.java,src/java/org/opensymphony/webwork/dispatcher/DispatcherUtils.java,src/java/org/opensymphony/struts/action2/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/webwork/dispatcher/DispatcherUtils.java,src/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,action/src/main/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts/action2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts2/dispatcher/DispatcherUtils.java,core/src/main/java/org/apache/struts2/dispatcher/Dispatcher.java
+
+src/java/com/opensymphony/webwork/util/AttributeMap.java,src/java/org/opensymphony/webwork/util/AttributeMap.java,src/java/org/opensymphony/struts/action2/util/AttributeMap.java,src/java/org/apache/struts/action2/util/AttributeMap.java,src/java/org/apache/struts/webwork/util/AttributeMap.java,src/java/org/apache/struts/action2/util/AttributeMap.java,action/src/main/java/org/apache/struts/action2/util/AttributeMap.java,core/src/main/java/org/apache/struts/action2/util/AttributeMap.java,core/src/main/java/org/apache/struts2/util/AttributeMap.java,core/src/main/java/org/apache/struts2/dispatcher/AttributeMap.java
+
+core/src/main/java/org/apache/struts2/tiles/StrutsTilesUtilImpl.java,plugins/tiles/src/main/java/org/apache/struts2/tiles/StrutsTilesUtilImpl.java,plugins/tiles/src/main/java/org/apache/struts2/tiles/StrutsTilesRequestContext.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/LocalizedTextUtil.java,core/src/main/java/com/opensymphony/xwork2/util/LocalizedTextUtil.java,core/src/main/java/com/opensymphony/xwork2/util/DefaultLocalizedTextProvider.java,core/src/main/java/com/opensymphony/xwork2/util/StrutsLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/StrutsLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/StrutsLocalizedTextProvider.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/XWorkList.java,core/src/main/java/com/opensymphony/xwork2/util/XWorkList.java,core/src/main/java/com/opensymphony/xwork2/conversion/impl/XWorkList.java,core/src/main/java/org/apache/struts2/conversion/impl/XWorkList.java
+
+xwork-core/src/main/java/com/opensymphony/xwork2/util/finder/DefaultClassFinder.java,core/src/main/java/com/opensymphony/xwork2/util/finder/DefaultClassFinder.java,plugins/convention/src/main/java/org/apache/struts2/convention/DefaultClassFinder.java
+
+core/src/main/java/com/opensymphony/xwork2/util/DefaultLocalizedTextProvider.java,core/src/main/java/com/opensymphony/xwork2/util/GlobalLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/GlobalLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/GlobalLocalizedTextProvider.java
+
+core/src/main/java/com/opensymphony/xwork2/util/AbstractLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/util/AbstractLocalizedTextProvider.java,core/src/main/java/org/apache/struts2/text/AbstractLocalizedTextProvider.java
+

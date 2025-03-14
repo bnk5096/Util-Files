@@ -1,0 +1,31 @@
+Both (Tests Included). Total: 0
+
+Promotions (Tests Included). Total: 4
+modules/ssl/ssl_expr_parse.c,server/util_expr_parse.c
+
+modules/ssl/ssl_expr_parse.h,server/util_expr_parse.h
+
+modules/ssl/ssl_expr_scan.c,server/util_expr_scan.c
+
+modules/http/http_etag.c,server/util_etag.c
+
+
+Demotions (Tests Included). Total: 1
+modules/ldap/util_ldap.dsp,modules/ldap/mod_ldap.dsp
+
+
+Both (Tests Excluded). Total: 0
+
+Promotions (Tests Excluded). Total: 4
+modules/ssl/ssl_expr_parse.c,server/util_expr_parse.c
+
+modules/ssl/ssl_expr_parse.h,server/util_expr_parse.h
+
+modules/ssl/ssl_expr_scan.c,server/util_expr_scan.c
+
+modules/http/http_etag.c,server/util_etag.c
+
+
+Demotions (Tests Excluded). Total: 1
+modules/ldap/util_ldap.dsp,modules/ldap/mod_ldap.dsp
+

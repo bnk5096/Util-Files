@@ -1,0 +1,51 @@
+Both (Tests Included). Total: 0
+
+Promotions (Tests Included). Total: 9
+django/parts/admin/doc.py,django/contrib/admin/utils.py,django/contrib/admindocs/utils.py
+
+tests/regressiontests/datetime_safe/tests.py,tests/regressiontests/utils/datetime_safe.py,tests/utils/datetime_safe.py,tests/utils_tests/datetime_safe.py,tests/utils_tests/test_datetime_safe.py
+
+tests/modeltests/force_insert_update/__init__.py,tests/admin_util/__init__.py,tests/admin_utils/__init__.py
+
+tests/regressiontests/admin_scripts/complex_app/__init__.py,tests/http_utils/__init__.py
+
+tests/regressiontests/file_storage/models.py,tests/http_utils/models.py
+
+tests/regressiontests/templates/templatetags/__init__.py,tests/test_utils/__init__.py
+
+tests/regressiontests/urlpatterns_reverse/__init__.py,tests/utils/__init__.py,tests/utils_tests/__init__.py
+
+django/contrib/webdesign/lorem_ipsum.py,django/utils/lorem_ipsum.py
+
+django/db/migrations/topological_sort.py,django/utils/topological_sort.py
+
+
+Demotions (Tests Included). Total: 7
+django/utils/httpwrappers.py,django/http/__init__.py
+
+tests/regressiontests/http_utils/tests.py,tests/http_utils/tests.py,tests/test_client/test_conditional_content_removal.py
+
+tests/regressiontests/admin_util/__init__.py,tests/i18n/patterns/__init__.py
+
+tests/regressiontests/http_utils/models.py,tests/invalid_models/models.py
+
+tests/regressiontests/http_utils/__init__.py,tests/mutually_referential/__init__.py
+
+tests/regressiontests/test_utils/__init__.py,tests/user_commands/__init__.py
+
+tests/regressiontests/utils/test_module/__init__.py,tests/validators/__init__.py
+
+
+Both (Tests Excluded). Total: 0
+
+Promotions (Tests Excluded). Total: 3
+django/parts/admin/doc.py,django/contrib/admin/utils.py,django/contrib/admindocs/utils.py
+
+django/contrib/webdesign/lorem_ipsum.py,django/utils/lorem_ipsum.py
+
+django/db/migrations/topological_sort.py,django/utils/topological_sort.py
+
+
+Demotions (Tests Excluded). Total: 1
+django/utils/httpwrappers.py,django/http/__init__.py
+
